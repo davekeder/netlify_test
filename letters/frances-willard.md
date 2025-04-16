@@ -3,7 +3,7 @@ title: Letter from Frances Willard
 date: 1893-11-07
 layout: base.njk
 tags: [reformers, women's rights]
-image: ../images/letters/Frances_Willard_Letter.jpg
+image: /images/letters/Frances_Willard_Letter.jpg
 permalink: /letters/frances-willard/
 ---
 
